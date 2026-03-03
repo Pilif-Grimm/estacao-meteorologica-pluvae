@@ -107,15 +107,23 @@ A compressão temporal permitiu simular um dia completo de observações em pouc
 
 ---
 
-## 🔄 Evolução Técnica (Visão Atual)
+## 🧩 Projetos Relacionados
 
-Se desenvolvido atualmente, o sistema poderia ser modernizado com:
+Este repositório documenta a versão pedagógica e portátil da estação meteorológica, desenvolvida com foco demonstrativo.
 
-- ESP32 com Wi-Fi integrado
-- Dashboard web embarcado
-- Registro histórico persistente
-- Exportação automática de dados
-- Integração com plataformas IoT (MQTT / Home Assistant)
+Foi posteriormente desenvolvido um segundo projeto com proposta distinta:
+
+### 🌐 Estação Meteorológica com ESP e Wi-Fi
+
+Características:
+
+- Baseada em ESP8266 (Wi-Fi integrado)
+- Envio de dados para a internet
+- Hospedagem temporária no ThingSpeak
+- Foco em monitoramento funcional contínuo
+
+Enquanto esta versão (Pluvae) prioriza simulação, interação física e didática,
+a versão com ESP prioriza conectividade e aplicação prática.
 
 ---
 
